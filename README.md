@@ -28,6 +28,7 @@ sign-in instead of an API key. See the [MCP docs](https://docs.postbase.so/mcp/o
 
 ## Docs
 
+- [Agent Skills](https://docs.postbase.so/mcp/skills)
 - [REST API](https://docs.postbase.so/api/authentication)
 - [MCP server](https://docs.postbase.so/mcp/overview)
 
